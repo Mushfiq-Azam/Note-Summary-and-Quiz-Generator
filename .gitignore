@@ -1,0 +1,12 @@
+# Virtual environment
+project1venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables (IMPORTANT)
+.env
+
+# OS files
+.DS_Store
